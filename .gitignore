@@ -4,6 +4,10 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+*.swp
+.idea/
+.DS_Store
+build/
 
 # Runtime data
 pids
